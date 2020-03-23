@@ -1,2 +1,2 @@
-# MCZI_practic
+# MSZI_practic
 Практическая работа по МСЗИ. Анализ дампа трафика на Python.
